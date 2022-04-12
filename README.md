@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tastetest
-- 👀 I’m interested in programming, gaming, and bug fixing
+- 👀 I’m interested in programming, gaming, and modding.
 - 🌱 I’m currently learning C#, but I have extensive knowledge in JS and TS.
 - 📫 You can reach me via my email.
 
