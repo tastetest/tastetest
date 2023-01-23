@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttj or @tastetest
 - 👀 I’m interested in programming, gaming, and modding.
-- 🌱 I’m currently learning Rust, but I have extensive knowledge in C#, JS and TS.
+- 🌱 I’m a full time software developer working with C#, TS, and React, but in my spare time I use rust, as it's my favourite language. My repo consists of all the stuff i love about programming!
 
 
 <!---
